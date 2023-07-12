@@ -370,3 +370,63 @@ Binding(COMMAND+SHIFT+C,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-11 21:03:42.412
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-11 21:03:42.442
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-11 21:03:42.443
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-11 21:03:42.444
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-11 21:03:42.445
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-11 21:03:42.453
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-11 21:03:42.459
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-11 21:12:10.878
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-11 21:13:19.764
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-11 21:13:29.835
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-11 21:22:54.861
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-11 21:22:58.521
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-11 21:25:19.849
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-11 21:25:49.994
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-11 21:26:06.529
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-11 21:26:34.042
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-11 21:27:15.505
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-11 21:29:00.112
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-11 21:30:01.879
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-11 21:30:51.614
+!MESSAGE Classpath changed for project: dslist
