@@ -430,3 +430,12 @@ Binding(COMMAND+SHIFT+C,
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-11 21:30:51.614
 !MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 14:58:02.511
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 15:03:34.373
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 15:03:46.491
+!MESSAGE Classpath changed for project: dslist
