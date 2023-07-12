@@ -439,3 +439,231 @@ Binding(COMMAND+SHIFT+C,
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 15:03:46.491
 !MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 16:07:16.548
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 16:07:43.407
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-12 16:07:43.499
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-12 16:07:43.500
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-12 16:07:43.501
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-12 16:07:43.501
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-12 16:07:43.504
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-12 16:07:43.506
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 16:07:52.587
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 16:08:44.902
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 16:09:19.267
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 16:09:23.320
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 16:09:45.888
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 16:10:06.192
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 16:10:22.646
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:06:36.351
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:07:30.962
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:07:50.307
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-12 17:07:50.329
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-12 17:07:50.331
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-12 17:07:50.332
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-12 17:07:50.333
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-12 17:07:50.341
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-12 17:07:50.345
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:08:03.727
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:09:59.910
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:10:46.553
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-12 17:10:46.566
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-12 17:10:46.568
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-12 17:10:46.569
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-12 17:10:46.570
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-12 17:10:46.577
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-12 17:10:46.579
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:24:31.043
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:25:41.501
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:25:56.740
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:26:31.641
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:26:37.804
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:26:39.874
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:26:50.468
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:27:00.338
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:27:06.244
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.eclipse.lsp4e 2 0 2023-07-12 17:27:12.610
+!MESSAGE Unable to compute end of document
+!STACK 0
+org.eclipse.jface.text.BadLocationException
+	at org.eclipse.jface.text.TreeLineTracker.fail(TreeLineTracker.java:1054)
+	at org.eclipse.jface.text.TreeLineTracker.lineByOffset(TreeLineTracker.java:268)
+	at org.eclipse.jface.text.TreeLineTracker.getLineNumberOfOffset(TreeLineTracker.java:1122)
+	at org.eclipse.jface.text.AbstractLineTracker.getLineNumberOfOffset(AbstractLineTracker.java:246)
+	at org.eclipse.jface.text.AbstractDocument.getLineOfOffset(AbstractDocument.java:872)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.getLineOfOffset(SynchronizableDocument.java:334)
+	at org.eclipse.lsp4e.LSPEclipseUtils.toPosition(LSPEclipseUtils.java:178)
+	at org.eclipse.lsp4e.operations.inlayhint.InlayHintProvider.provideCodeMinings(InlayHintProvider.java:44)
+	at org.eclipse.lsp4e.operations.inlayhint.InlayHintProvider.provideCodeMinings(InlayHintProvider.java:80)
+	at org.eclipse.jface.internal.text.codemining.CodeMiningManager.lambda$2(CodeMiningManager.java:189)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+	at org.eclipse.jface.internal.text.codemining.CodeMiningManager.getCodeMinings(CodeMiningManager.java:195)
+	at org.eclipse.jface.internal.text.codemining.CodeMiningManager.updateCodeMinings(CodeMiningManager.java:140)
+	at org.eclipse.jface.internal.text.codemining.CodeMiningManager.run(CodeMiningManager.java:129)
+	at org.eclipse.jface.text.source.SourceViewer.updateCodeMinings(SourceViewer.java:1333)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaCodeMiningReconciler.reconciled(JavaCodeMiningReconciler.java:51)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.reconciled(CompilationUnitEditor.java:1685)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconciled(JavaReconcilingStrategy.java:228)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconciled(JavaCompositeReconcilingStrategy.java:171)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:115)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:78)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:27:15.521
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:27:36.579
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:27:53.781
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:28:41.182
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:29:37.360
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-12 17:29:37.378
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-12 17:29:37.379
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-12 17:29:37.380
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-12 17:29:37.381
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-12 17:29:37.388
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2023-07-12 17:29:37.390
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:30:14.000
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:31:02.997
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:31:16.302
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:31:22.778
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:31:34.584
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:32:16.385
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:32:30.495
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:32:43.432
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:35:29.826
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:36:07.254
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:36:20.111
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:36:48.238
+!MESSAGE Classpath changed for project: dslist
